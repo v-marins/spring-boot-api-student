@@ -2,14 +2,13 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Implementação de uma API que salva e recupera informações de um estudante em um banco de dados.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão LTS mais recente do Java JDK (No momento a versão 17).
+* Você instalou a versão mais recente do MySQL em sua máquina.
+* Você tem uma IDE ou editor de texto instalado para auxiliar na ediçao e execução do código.
+* Você tem o aplicativo 'POSTMAN' ou similar para testa as requisições HTTP na sua máquina.
 
-## 🚀 Informações <nome_do_projeto>
